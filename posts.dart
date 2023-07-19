@@ -298,7 +298,7 @@ class MyApp extends StatelessWidget {
           unselectedIconTheme: const IconThemeData(color: Colors.grey),
           showSelectedLabels: false,
           showUnselectedLabels: false,
-          currentIndex: 4,
+          currentIndex: 1,
           type: BottomNavigationBarType.fixed,
         ),
       ),
